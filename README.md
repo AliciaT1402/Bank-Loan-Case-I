@@ -20,4 +20,4 @@ https://www.kaggle.com/datasets/gauravbr/bank-loan-applications/data
 
 
 ### 4. Goal
-The goal of this project is to conduct a detailed exploratory data analysis (EDA) using statistical analysis and data visualisation to highlight key trens and risk factors in banking loans.
+The goal of this project is to conduct a detailed exploratory data analysis (EDA) using statistical analysis and data visualisation to study patterns of debtors and factors contributing to the acceptance, partial acceptance, or rejection of a loan application.
